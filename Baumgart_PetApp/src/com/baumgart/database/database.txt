@@ -1,0 +1,35 @@
+firstName:Matthew
+lastName:Fraser
+phoneNumber:414-333-8833
+address:2232 South Ohio Street, Milwaukee, WI, 53207, USA
+pets:Petey, Shetland Sheepdog, 3, Male, Gunner, Corgi, 4, Female
+
+firstName:Jane
+lastName:Doe
+phoneNumber:414-656-2354
+address:8739 N Street, Milwaukee, WI, 53207, USA
+pets:Carol, Golden Retriever, 5, Male
+
+firstName:Clayton
+lastName:Moses
+phoneNumber:414-982-6632
+address: 9823 West Street, Milwaukee, WI, 53208, USA
+pets:Max, Husky, 7, Male, Jake, Husky, 4, Male, Bella, Poodle, 4, Female
+
+firstName:Ellie
+lastName:Greig
+phoneNumber:989-422-6543
+address: 2354 East Bend, Milwaukee, WI, 53207, USA
+pets:Molly, Dachshund, 2, Female
+
+firstName:Toni
+lastName:Price
+phoneNumber:414-435-6543
+address: 9843 East Street, Milwaukee, WI, 53207, USA
+pets:Rocky, French Bulldog, 8
+
+firstName:Brent
+lastName:Baumgart
+phoneNumber:345-554-3456
+address:not set
+dogs: to be added
